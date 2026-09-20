@@ -1,0 +1,191 @@
+{
+  "technical_analysis": [
+    {
+      "tip": "Support aur Resistance levels ko hamesha higher timeframes (Daily, Weekly) par mark karein. Chote timeframes par fake breakouts hote hain.",
+      "category": "Technical Analysis",
+      "difficulty": "Beginner"
+    },
+    {
+      "tip": "Jab price 200 EMA ke upar ho, toh sirf BUY setups dhoondein. Jab neeche ho, toh sirf SELL setups. Trend ke against kabhi trade na karein.",
+      "category": "Technical Analysis",
+      "difficulty": "Beginner"
+    },
+    {
+      "tip": "RSI divergence ek powerful reversal signal hai. Agar price naya high bana raha hai lekin RSI naya high nahi bana raha, toh reversal aa sakta hai.",
+      "category": "Technical Analysis",
+      "difficulty": "Intermediate"
+    },
+    {
+      "tip": "MACD crossover tab zyada reliable hota hai jab woh zero line ke upar ya neeche ho. Flat market mein MACD fake signals deta hai.",
+      "category": "Technical Analysis",
+      "difficulty": "Intermediate"
+    },
+    {
+      "tip": "Candlestick patterns sirf key levels (Support/Resistance) par kaam karte hain. Middle of nowhere mein woh bekaar hain.",
+      "category": "Technical Analysis",
+      "difficulty": "Beginner"
+    },
+    {
+      "tip": "Bollinger Bands jab squeeze ho jayein (patli ho jayein), toh bara move aane wala hota hai. Direction ka pata nahi hota, isliye breakout ka intezar karein.",
+      "category": "Technical Analysis",
+      "difficulty": "Intermediate"
+    },
+    {
+      "tip": "Volume hamesha confirm karta hai. Agar price barh raha hai lekin volume nahi, toh woh move fake hai.",
+      "category": "Technical Analysis",
+      "difficulty": "Beginner"
+    },
+    {
+      "tip": "Fibonacci retracement 0.618 aur 0.5 levels sabse zyada respected hote hain. Entry ke liye in levels ka intezar karein.",
+      "category": "Technical Analysis",
+      "difficulty": "Intermediate"
+    }
+  ],
+
+  "fundamental_analysis": [
+    {
+      "tip": "FOMC Statement ke din kabhi trade na karein. Market 200-300 pips tak achanak move kar sakta hai. Pehle 15 minute ka intezar karein.",
+      "category": "Fundamental Analysis",
+      "difficulty": "Beginner"
+    },
+    {
+      "tip": "NFP (Non-Farm Payroll) hamesha month ke pehle Friday ko aata hai. Us din high volatility expected hoti hai.",
+      "category": "Fundamental Analysis",
+      "difficulty": "Beginner"
+    },
+    {
+      "tip": "Central bank ke interest rate decisions market ka sabse bara driver hote hain. Hawkish (rate hike) = currency strong. Dovish (rate cut) = currency weak.",
+      "category": "Fundamental Analysis",
+      "difficulty": "Intermediate"
+    },
+    {
+      "tip": "CPI (Inflation) data 3:30 PM PKT par aata hai. Agar forecast se zyada aaye toh currency strong hoti hai, kyunke rate hike expected hoti hai.",
+      "category": "Fundamental Analysis",
+      "difficulty": "Intermediate"
+    },
+    {
+      "tip": "Economic calendar hamesha trade se pehle check karein. High impact news ke 30 minute pehle aur baad tak koi position na lein.",
+      "category": "Fundamental Analysis",
+      "difficulty": "Beginner"
+    },
+    {
+      "tip": "DXY (Dollar Index) aur Gold ka inverse relationship hota hai. Jab DXY upar jata hai, Gold neeche aata hai.",
+      "category": "Fundamental Analysis",
+      "difficulty": "Intermediate"
+    },
+    {
+      "tip": "Geopolitical events (wars, elections) market mein uncertainty paida karte hain. Aise waqt mein safe-haven assets (Gold, JPY, USD) demand mein aate hain.",
+      "category": "Fundamental Analysis",
+      "difficulty": "Advanced"
+    }
+  ],
+
+  "risk_management": [
+    {
+      "tip": "Ek trade mein apne account ka sirf 1-2% risk karein. Agar account $1000 hai, toh maximum $10-20 ka loss acceptable hai.",
+      "category": "Risk Management",
+      "difficulty": "Beginner"
+    },
+    {
+      "tip": "Stop Loss hamesha lagayein — chahe aap kitne bhi confident hon. Ek trade poora account khatam kar sakti hai.",
+      "category": "Risk Management",
+      "difficulty": "Beginner"
+    },
+    {
+      "tip": "Risk/Reward Ratio kam se kam 1:2 rakhein. Matlab agar aap $10 risk kar rahe hain, toh $20 profit ka target rakhein.",
+      "category": "Risk Management",
+      "difficulty": "Beginner"
+    },
+    {
+      "tip": "Ek din mein 3 se zyada losing trades ke baad trading band kar dein. Aapka mind frustrated ho jata hai aur ghalat decisions leta hai.",
+      "category": "Risk Management",
+      "difficulty": "Intermediate"
+    },
+    {
+      "tip": "Position size hamesha Stop Loss ki width ke hisaab se calculate karein, apni feelings ke hisaab se nahi.",
+      "category": "Risk Management",
+      "difficulty": "Intermediate"
+    },
+    {
+      "tip": "Leverage ek double-edged sword hai. 1:100 leverage ka matlab hai ke 1% move aapka poora account kha sakta hai.",
+      "category": "Risk Management",
+      "difficulty": "Beginner"
+    },
+    {
+      "tip": "Trading se pehle apna daily loss limit set karein. Agar woh hit ho jaye, toh laptop band karein aur kal wapas aayein.",
+      "category": "Risk Management",
+      "difficulty": "Beginner"
+    }
+  ],
+
+  "trading_psychology": [
+    {
+      "tip": "Revenge trading sab se bara account killer hai. Loss ke baad foran wapas trade karne ki koshish na karein.",
+      "category": "Trading Psychology",
+      "difficulty": "Beginner"
+    },
+    {
+      "tip": "FOMO (Fear of Missing Out) aapko galat waqt par trade karwata hai. Agar setup nikal gaya, toh agla intezar karein.",
+      "category": "Trading Psychology",
+      "difficulty": "Beginner"
+    },
+    {
+      "tip": "Ek acha trader 100 trades mein 40 jeet kar bhi profit kamata hai — agar uski Risk/Reward sahi ho.",
+      "category": "Trading Psychology",
+      "difficulty": "Intermediate"
+    },
+    {
+      "tip": "Trading ek marathon hai, sprint nahi. Overnight rich banne ki koshish aapko overnight poor bana degi.",
+      "category": "Trading Psychology",
+      "difficulty": "Beginner"
+    },
+    {
+      "tip": "Apni trades ka journal rakhein. Har entry ka reason likhein. 1 mahine baad aap apni ghaltiyan khud dekh payenge.",
+      "category": "Trading Psychology",
+      "difficulty": "Beginner"
+    },
+    {
+      "tip": "Greed aur Fear — yeh do emotions hain jo traders ko barbaad karte hain. Inhe control karna seekhein.",
+      "category": "Trading Psychology",
+      "difficulty": "Intermediate"
+    },
+    {
+      "tip": "Kabhi bhi apna loss recover karne ke liye position size na barhayein. Yeh gambling hai, trading nahi.",
+      "category": "Trading Psychology",
+      "difficulty": "Beginner"
+    }
+  ],
+
+  "market_wisdom": [
+    {
+      "tip": "\"Trend is your friend\" — jab tak trend na toote, uske against trade na karein.",
+      "category": "Market Wisdom",
+      "difficulty": "Beginner"
+    },
+    {
+      "tip": "\"Buy the rumor, sell the news\" — market expectation par chalta hai, actual news par nahi.",
+      "category": "Market Wisdom",
+      "difficulty": "Intermediate"
+    },
+    {
+      "tip": "\"Cut your losses short, let your profits run\" — yeh trading ka golden rule hai.",
+      "category": "Market Wisdom",
+      "difficulty": "Beginner"
+    },
+    {
+      "tip": "\"The market can stay irrational longer than you can stay solvent\" — kabhi bhi market ke against stubborn na banein.",
+      "category": "Market Wisdom",
+      "difficulty": "Intermediate"
+    },
+    {
+      "tip": "\"Plan the trade, trade the plan\" — bina plan ke trade karna casino mein paisa lagane ke barabar hai.",
+      "category": "Market Wisdom",
+      "difficulty": "Beginner"
+    },
+    {
+      "tip": "Market 80% waqt range mein hota hai aur 20% waqt trend karta hai. Patience rakhein.",
+      "category": "Market Wisdom",
+      "difficulty": "Intermediate"
+    }
+  ]
+}
