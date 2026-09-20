@@ -1,42 +1,72 @@
 {
   "technical_analysis": [
     {
-      "tip": "Support aur Resistance levels ko hamesha higher timeframes (Daily, Weekly) par mark karein. Chote timeframes par fake breakouts hote hain.",
+      "tip": "Always analyze the market from higher timeframes down to lower timeframes. The Daily and 4H charts define the trend, while the 15M and 5M charts are for entry precision.",
       "category": "Technical Analysis",
       "difficulty": "Beginner"
     },
     {
-      "tip": "Jab price 200 EMA ke upar ho, toh sirf BUY setups dhoondein. Jab neeche ho, toh sirf SELL setups. Trend ke against kabhi trade na karein.",
+      "tip": "A breakout is only valid when confirmed by volume. Price movement without volume is a trap, not a trend.",
       "category": "Technical Analysis",
       "difficulty": "Beginner"
     },
     {
-      "tip": "RSI divergence ek powerful reversal signal hai. Agar price naya high bana raha hai lekin RSI naya high nahi bana raha, toh reversal aa sakta hai.",
+      "tip": "Support and resistance zones are areas, not exact lines. Treat them as regions where price is likely to react, not as precise price levels.",
+      "category": "Technical Analysis",
+      "difficulty": "Beginner"
+    },
+    {
+      "tip": "The 200 EMA on the Daily chart is the single most respected trend filter. Above it, bias is bullish. Below it, bias is bearish.",
+      "category": "Technical Analysis",
+      "difficulty": "Beginner"
+    },
+    {
+      "tip": "RSI divergence is only meaningful when it forms at a key support or resistance level. Divergence in the middle of a range is noise.",
       "category": "Technical Analysis",
       "difficulty": "Intermediate"
     },
     {
-      "tip": "MACD crossover tab zyada reliable hota hai jab woh zero line ke upar ya neeche ho. Flat market mein MACD fake signals deta hai.",
+      "tip": "A MACD crossover carries more weight when it occurs above the zero line in an uptrend, or below the zero line in a downtrend.",
       "category": "Technical Analysis",
       "difficulty": "Intermediate"
     },
     {
-      "tip": "Candlestick patterns sirf key levels (Support/Resistance) par kaam karte hain. Middle of nowhere mein woh bekaar hain.",
-      "category": "Technical Analysis",
-      "difficulty": "Beginner"
-    },
-    {
-      "tip": "Bollinger Bands jab squeeze ho jayein (patli ho jayein), toh bara move aane wala hota hai. Direction ka pata nahi hota, isliye breakout ka intezar karein.",
+      "tip": "Bollinger Band squeezes signal impending volatility expansion. Do not guess the direction — wait for the breakout and trade the confirmation.",
       "category": "Technical Analysis",
       "difficulty": "Intermediate"
     },
     {
-      "tip": "Volume hamesha confirm karta hai. Agar price barh raha hai lekin volume nahi, toh woh move fake hai.",
+      "tip": "Fibonacci retracement levels of 0.618 and 0.5 are the most respected. When combined with a prior support/resistance zone, they form a high-probability entry.",
+      "category": "Technical Analysis",
+      "difficulty": "Intermediate"
+    },
+    {
+      "tip": "Candlestick patterns are only reliable when they form at significant levels. A hammer in the middle of a range means nothing.",
       "category": "Technical Analysis",
       "difficulty": "Beginner"
     },
     {
-      "tip": "Fibonacci retracement 0.618 aur 0.5 levels sabse zyada respected hote hain. Entry ke liye in levels ka intezar karein.",
+      "tip": "Institutional order flow leaves footprints. Learn to recognize accumulation and distribution phases on the chart — that is where the real money moves.",
+      "category": "Technical Analysis",
+      "difficulty": "Advanced"
+    },
+    {
+      "tip": "Liquidity is drawn to obvious highs and lows. Smart money often sweeps these levels before reversing. Do not place stops directly at obvious levels.",
+      "category": "Technical Analysis",
+      "difficulty": "Advanced"
+    },
+    {
+      "tip": "A trend is only confirmed when the market prints consecutive higher highs and higher lows (uptrend) or lower highs and lower lows (downtrend).",
+      "category": "Technical Analysis",
+      "difficulty": "Beginner"
+    },
+    {
+      "tip": "Never trade against the Weekly and Daily trend on lower timeframes. Counter-trend trades are for scalpers with strict rules, not for beginners.",
+      "category": "Technical Analysis",
+      "difficulty": "Intermediate"
+    },
+    {
+      "tip": "Chart patterns such as Head & Shoulders, Double Tops, and Ascending Triangles have higher success rates when they form after an extended trend.",
       "category": "Technical Analysis",
       "difficulty": "Intermediate"
     }
@@ -44,37 +74,62 @@
 
   "fundamental_analysis": [
     {
-      "tip": "FOMC Statement ke din kabhi trade na karein. Market 200-300 pips tak achanak move kar sakta hai. Pehle 15 minute ka intezar karein.",
+      "tip": "Never hold a leveraged position through an FOMC Statement. The initial reaction is often a trap — wait for the first 15 minutes of volatility to settle.",
       "category": "Fundamental Analysis",
       "difficulty": "Beginner"
     },
     {
-      "tip": "NFP (Non-Farm Payroll) hamesha month ke pehle Friday ko aata hai. Us din high volatility expected hoti hai.",
+      "tip": "Non-Farm Payrolls (NFP) is released on the first Friday of every month. Expect extreme volatility on USD pairs during the release.",
       "category": "Fundamental Analysis",
       "difficulty": "Beginner"
     },
     {
-      "tip": "Central bank ke interest rate decisions market ka sabse bara driver hote hain. Hawkish (rate hike) = currency strong. Dovish (rate cut) = currency weak.",
+      "tip": "Central bank policy is the primary driver of currency strength. Hawkish rhetoric strengthens a currency; dovish rhetoric weakens it.",
       "category": "Fundamental Analysis",
       "difficulty": "Intermediate"
     },
     {
-      "tip": "CPI (Inflation) data 3:30 PM PKT par aata hai. Agar forecast se zyada aaye toh currency strong hoti hai, kyunke rate hike expected hoti hai.",
+      "tip": "CPI (Consumer Price Index) data above forecast typically strengthens the currency, as it raises the probability of a rate hike.",
       "category": "Fundamental Analysis",
       "difficulty": "Intermediate"
     },
     {
-      "tip": "Economic calendar hamesha trade se pehle check karein. High impact news ke 30 minute pehle aur baad tak koi position na lein.",
+      "tip": "Always check the economic calendar before placing a trade. High-impact news can invalidate any technical setup within seconds.",
       "category": "Fundamental Analysis",
       "difficulty": "Beginner"
     },
     {
-      "tip": "DXY (Dollar Index) aur Gold ka inverse relationship hota hai. Jab DXY upar jata hai, Gold neeche aata hai.",
+      "tip": "The US Dollar Index (DXY) has a strong inverse correlation with Gold. When DXY rallies, Gold typically declines, and vice versa.",
       "category": "Fundamental Analysis",
       "difficulty": "Intermediate"
     },
     {
-      "tip": "Geopolitical events (wars, elections) market mein uncertainty paida karte hain. Aise waqt mein safe-haven assets (Gold, JPY, USD) demand mein aate hain.",
+      "tip": "Geopolitical events create uncertainty. In such environments, capital flows into safe-haven assets such as Gold, the Japanese Yen, and the US Dollar.",
+      "category": "Fundamental Analysis",
+      "difficulty": "Advanced"
+    },
+    {
+      "tip": "Interest rate differentials drive long-term currency trends. The currency of a higher-yielding economy typically appreciates against a lower-yielding one.",
+      "category": "Fundamental Analysis",
+      "difficulty": "Advanced"
+    },
+    {
+      "tip": "Bond yields and currency strength move together. Rising yields attract capital, which strengthens the domestic currency.",
+      "category": "Fundamental Analysis",
+      "difficulty": "Intermediate"
+    },
+    {
+      "tip": "Trade the reaction, not the news. The market's initial reaction to data often reverses within the first hour — patience is profitable.",
+      "category": "Fundamental Analysis",
+      "difficulty": "Intermediate"
+    },
+    {
+      "tip": "Monitor central bank speakers as closely as their decisions. A single hawkish comment from a Fed official can move markets more than economic data.",
+      "category": "Fundamental Analysis",
+      "difficulty": "Intermediate"
+    },
+    {
+      "tip": "In a risk-off environment, correlations tighten. Almost every asset becomes correlated to the US Dollar, and traditional analysis breaks down.",
       "category": "Fundamental Analysis",
       "difficulty": "Advanced"
     }
@@ -82,110 +137,195 @@
 
   "risk_management": [
     {
-      "tip": "Ek trade mein apne account ka sirf 1-2% risk karein. Agar account $1000 hai, toh maximum $10-20 ka loss acceptable hai.",
+      "tip": "Never risk more than 1-2% of your account balance on a single trade. This is the golden rule that separates professionals from gamblers.",
       "category": "Risk Management",
       "difficulty": "Beginner"
     },
     {
-      "tip": "Stop Loss hamesha lagayein — chahe aap kitne bhi confident hon. Ek trade poora account khatam kar sakti hai.",
+      "tip": "Always use a Stop Loss. A trade without a stop is not a trade — it is a liability with unlimited downside.",
       "category": "Risk Management",
       "difficulty": "Beginner"
     },
     {
-      "tip": "Risk/Reward Ratio kam se kam 1:2 rakhein. Matlab agar aap $10 risk kar rahe hain, toh $20 profit ka target rakhein.",
+      "tip": "Maintain a minimum Risk-to-Reward ratio of 1:2. Even a 40% win rate is highly profitable with this ratio.",
       "category": "Risk Management",
       "difficulty": "Beginner"
     },
     {
-      "tip": "Ek din mein 3 se zyada losing trades ke baad trading band kar dein. Aapka mind frustrated ho jata hai aur ghalat decisions leta hai.",
+      "tip": "Position size is determined by Stop Loss distance, not by how confident you feel. Confidence is a feeling; mathematics is a fact.",
+      "category": "Risk Management",
+      "difficulty": "Beginner"
+    },
+    {
+      "tip": "After three consecutive losing trades, close your platform for the day. Emotional capital is more valuable than financial capital.",
       "category": "Risk Management",
       "difficulty": "Intermediate"
     },
     {
-      "tip": "Position size hamesha Stop Loss ki width ke hisaab se calculate karein, apni feelings ke hisaab se nahi.",
+      "tip": "Leverage is a tool, not a strategy. High leverage amplifies both profits and losses — it does not create edges.",
+      "category": "Risk Management",
+      "difficulty": "Beginner"
+    },
+    {
+      "tip": "Set a daily loss limit. When you reach it, stop trading. Tomorrow is another opportunity — today's revenge trading is a trap.",
+      "category": "Risk Management",
+      "difficulty": "Beginner"
+    },
+    {
+      "tip": "Correlated positions carry hidden risk. Holding long EURUSD and long GBPUSD is essentially a single bet on USD weakness, doubling your exposure.",
       "category": "Risk Management",
       "difficulty": "Intermediate"
     },
     {
-      "tip": "Leverage ek double-edged sword hai. 1:100 leverage ka matlab hai ke 1% move aapka poora account kha sakta hai.",
+      "tip": "Never add to a losing position. Averaging down on a losing trade is the fastest path to blowing up an account.",
       "category": "Risk Management",
       "difficulty": "Beginner"
     },
     {
-      "tip": "Trading se pehle apna daily loss limit set karein. Agar woh hit ho jaye, toh laptop band karein aur kal wapas aayein.",
+      "tip": "Diversification is not just about asset classes — it is about strategy diversification. Do not run five trend-following systems simultaneously.",
       "category": "Risk Management",
-      "difficulty": "Beginner"
+      "difficulty": "Advanced"
+    },
+    {
+      "tip": "Protect your capital during high-impact news. If you must hold, reduce position size to at least half of your normal allocation.",
+      "category": "Risk Management",
+      "difficulty": "Intermediate"
+    },
+    {
+      "tip": "Track your win rate, average win, and average loss monthly. Without these metrics, you are trading blind.",
+      "category": "Risk Management",
+      "difficulty": "Intermediate"
     }
   ],
 
   "trading_psychology": [
     {
-      "tip": "Revenge trading sab se bara account killer hai. Loss ke baad foran wapas trade karne ki koshish na karein.",
+      "tip": "Revenge trading is the fastest way to destroy an account. After a loss, step away from the screen before your emotions dictate your next decision.",
       "category": "Trading Psychology",
       "difficulty": "Beginner"
     },
     {
-      "tip": "FOMO (Fear of Missing Out) aapko galat waqt par trade karwata hai. Agar setup nikal gaya, toh agla intezar karein.",
+      "tip": "FOMO (Fear of Missing Out) is a symptom of poor planning. If you missed the setup, you missed the trade — there will always be another.",
       "category": "Trading Psychology",
       "difficulty": "Beginner"
     },
     {
-      "tip": "Ek acha trader 100 trades mein 40 jeet kar bhi profit kamata hai — agar uski Risk/Reward sahi ho.",
+      "tip": "A professional trader is not measured by winning streaks, but by how they handle losing streaks. Consistency in discipline defines success.",
       "category": "Trading Psychology",
       "difficulty": "Intermediate"
     },
     {
-      "tip": "Trading ek marathon hai, sprint nahi. Overnight rich banne ki koshish aapko overnight poor bana degi.",
+      "tip": "Trading is a marathon, not a sprint. The goal is not to get rich quickly, but to compound steadily over years.",
       "category": "Trading Psychology",
       "difficulty": "Beginner"
     },
     {
-      "tip": "Apni trades ka journal rakhein. Har entry ka reason likhein. 1 mahine baad aap apni ghaltiyan khud dekh payenge.",
+      "tip": "Maintain a trading journal. Every trade should have a documented reason for entry, exit, and outcome. Review it weekly.",
       "category": "Trading Psychology",
       "difficulty": "Beginner"
     },
     {
-      "tip": "Greed aur Fear — yeh do emotions hain jo traders ko barbaad karte hain. Inhe control karna seekhein.",
+      "tip": "Greed and fear are the two dominant emotions in trading. Every professional trader has learned to recognize and neutralize them.",
       "category": "Trading Psychology",
       "difficulty": "Intermediate"
     },
     {
-      "tip": "Kabhi bhi apna loss recover karne ke liye position size na barhayein. Yeh gambling hai, trading nahi.",
+      "tip": "Never increase your position size to recover a loss. This is gambling disguised as trading, and it will end the same way.",
       "category": "Trading Psychology",
       "difficulty": "Beginner"
+    },
+    {
+      "tip": "Detach your self-worth from individual trades. A losing trade does not make you a bad trader — it makes you a trader who took a calculated risk.",
+      "category": "Trading Psychology",
+      "difficulty": "Intermediate"
+    },
+    {
+      "tip": "The market does not care about your opinion. Trade what you see on the chart, not what you believe should happen.",
+      "category": "Trading Psychology",
+      "difficulty": "Beginner"
+    },
+    {
+      "tip": "Boredom is a silent killer. Do not open a trade simply because you have nothing else to do — trade only when the setup meets your criteria.",
+      "category": "Trading Psychology",
+      "difficulty": "Intermediate"
+    },
+    {
+      "tip": "Accept losses as a business expense. Every profitable trading operation has losing months. It is the cost of doing business.",
+      "category": "Trading Psychology",
+      "difficulty": "Advanced"
+    },
+    {
+      "tip": "Take regular breaks from the charts. Extended screen time degrades decision quality and increases emotional reactivity.",
+      "category": "Trading Psychology",
+      "difficulty": "Intermediate"
     }
   ],
 
   "market_wisdom": [
     {
-      "tip": "\"Trend is your friend\" — jab tak trend na toote, uske against trade na karein.",
+      "tip": "\"The trend is your friend until it bends at the end.\" Trade with the trend, and let the market tell you when it is over.",
       "category": "Market Wisdom",
       "difficulty": "Beginner"
     },
     {
-      "tip": "\"Buy the rumor, sell the news\" — market expectation par chalta hai, actual news par nahi.",
+      "tip": "\"Buy the rumor, sell the news.\" Markets move on expectations, not on the news itself. By the time the news is public, the move has often already happened.",
       "category": "Market Wisdom",
       "difficulty": "Intermediate"
     },
     {
-      "tip": "\"Cut your losses short, let your profits run\" — yeh trading ka golden rule hai.",
+      "tip": "\"Cut your losses short and let your winners run.\" This single principle has produced more profitable traders than any indicator ever created.",
       "category": "Market Wisdom",
       "difficulty": "Beginner"
     },
     {
-      "tip": "\"The market can stay irrational longer than you can stay solvent\" — kabhi bhi market ke against stubborn na banein.",
+      "tip": "\"The market can remain irrational longer than you can remain solvent.\" Never fight the market with stubbornness — survive first, profit second.",
       "category": "Market Wisdom",
       "difficulty": "Intermediate"
     },
     {
-      "tip": "\"Plan the trade, trade the plan\" — bina plan ke trade karna casino mein paisa lagane ke barabar hai.",
+      "tip": "\"Plan the trade and trade the plan.\" A trader without a written plan is a gambler with a keyboard.",
       "category": "Market Wisdom",
       "difficulty": "Beginner"
     },
     {
-      "tip": "Market 80% waqt range mein hota hai aur 20% waqt trend karta hai. Patience rakhein.",
+      "tip": "Markets spend approximately 80% of the time ranging and 20% trending. Most of your profits will come from the 20% — patience is the edge.",
       "category": "Market Wisdom",
       "difficulty": "Intermediate"
+    },
+    {
+      "tip": "\"Amateurs focus on how much they can make. Professionals focus on how much they can lose.\" Risk-first thinking defines longevity.",
+      "category": "Market Wisdom",
+      "difficulty": "Advanced"
+    },
+    {
+      "tip": "\"There is no such thing as a sure thing.\" Every trade is a probability, not a certainty. Position accordingly.",
+      "category": "Market Wisdom",
+      "difficulty": "Beginner"
+    },
+    {
+      "tip": "\"Successful trading is about finding an edge and executing it consistently.\" The edge does not have to be large — it has to be repeatable.",
+      "category": "Market Wisdom",
+      "difficulty": "Advanced"
+    },
+    {
+      "tip": "\"You do not have to trade every day.\" The market will be here tomorrow. Waiting for the right setup is a strategy, not laziness.",
+      "category": "Market Wisdom",
+      "difficulty": "Beginner"
+    },
+    {
+      "tip": "\"The best traders are not the ones who win the most, but the ones who lose the least.\" Capital preservation is the foundation of wealth.",
+      "category": "Market Wisdom",
+      "difficulty": "Intermediate"
+    },
+    {
+      "tip": "\"Every successful trader has paid tuition to the market.\" Losses are the price of education — the goal is to learn without going broke.",
+      "category": "Market Wisdom",
+      "difficulty": "Intermediate"
+    },
+    {
+      "tip": "\"A disciplined trader with a mediocre strategy will outperform a brilliant strategist with no discipline — every single time.\"",
+      "category": "Market Wisdom",
+      "difficulty": "Advanced"
     }
   ]
 }
